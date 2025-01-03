@@ -5,4 +5,4 @@ def create_acronym(word):
 
 # Example usage
 word = input("Enter word: ")
-print(create_acronym(word))  # Output: ASAP
+print(create_acronym(word))  
